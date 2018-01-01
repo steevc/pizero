@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-# simple binary clock
-# bcd for hours, minutes and seconds
-# chart for time past the hour (one light per whole ten minutes)
-# show weather every hour
+# show weather and Steem prices
+# secret.py needs set appid and location for weather
 
 import sys
 import time
